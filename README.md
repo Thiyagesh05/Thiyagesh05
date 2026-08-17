@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thiyagesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20DS%20Student&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,E63946,3A86FF&height=180&section=header&text=Thiyagesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20DS%20Student&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+MERN+Stack+Developer;AI+%26+Data+Science+Student;Building+responsive%2C+user-friendly+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+MERN+Stack+Developer;AI+%26+Data+Science+Student;Building+responsive%2C+user-friendly+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,23 +57,23 @@ const thiyagesh = {
 
 <div align="center">
 <a href="https://github.com/Thiyagesh05">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiyagesh05&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiyagesh05&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3A86FF&icon_color=E63946&text_color=C9D1D9&border_radius=10"/>
 </a>
 <a href="https://github.com/Thiyagesh05">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyagesh05&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyagesh05&layout=compact&hide_border=true&bg_color=0D1117&title_color=3A86FF&text_color=C9D1D9&langs_count=8&border_radius=10"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Thiyagesh05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Thiyagesh05&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=3A86FF&sideLabels=3A86FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyagesh05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyagesh05&bg_color=0D1117&color=C9D1D9&line=E63946&point=3A86FF&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Thiyagesh05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Thiyagesh05&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ## 💼 Work Experience
@@ -165,6 +165,6 @@ const thiyagesh = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,E63946,3A86FF&height=120&section=footer&animation=twinkling)
 
 </div>
