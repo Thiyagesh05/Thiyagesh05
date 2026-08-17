@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,E63946,3A86FF&height=180&section=header&text=Thiyagesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20DS%20Student&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,E63946,3A86FF&height=180&section=header&text=Thiyagesh%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20and%20DS%20Student&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+MERN+Stack+Developer;AI+%26+Data+Science+Student;Building+responsive%2C+user-friendly+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=750&lines=Web+Developer+%7C+MERN+Stack+Developer;AI+and+Data+Science+Student;Building+responsive%2C+user-friendly+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
